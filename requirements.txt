@@ -1,0 +1,40 @@
+ansi2html @ file:///C:/Users/dev-admin/buildout/croot/ansi2html_1732915562111/work
+blinker @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/blinker_1729040606648/work
+Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+Brotli @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/brotli-split_1729038678152/work
+certifi @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/certifi_1729039663717/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1729040674118/work
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+dash @ file:///C:/Users/dev-admin/buildout/croot/dash_1732921819802/work
+Flask @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/flask_1729043854102/work
+Flask-Compress @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/flask-compress_1729048245060/work
+idna @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/idna_1729038997316/work
+importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
+itsdangerous @ file:///C:/Users/dev-admin/buildout/croot/itsdangerous_1732929022589/work
+Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
+MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1729039103656/work
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730824198951/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730824302834/work
+nest_asyncio @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/nest-asyncio_1729042999160/work
+numexpr @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/numexpr_1731700337214/work
+numpy @ file:///C:/b/abs_25aj347ekn/croot/numpy_and_numpy_base_1730835595898/work/dist/numpy-2.1.3-cp313-cp313-win_amd64.whl#sha256=17b3f31ca0015b3dd2f7d7078af5b282907dcd54522d8ba9dbb868e6a654f320
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp313-cp313-win_amd64.whl#sha256=89153934c68f42239148879a6c0fd8bb5004e767550db26257dc4551ad0414d7
+plotly @ file:///C:/Users/dev-admin/buildout/croot/plotly_1732916716434/work
+PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1729039320841/work
+python-dateutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dateutil_1729038406576/work
+pytz @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pytz_1729039375330/work
+requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+retrying @ file:///Users/ktietz/demo/mc3/conda-bld/retrying_1629465456590/work
+setuptools==72.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tenacity @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/tenacity_1731701966482/work
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/urllib3_1729040373311/work
+Werkzeug @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/werkzeug_1731712504102/work
+wheel==0.44.0
+win_inet_pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1729038644686/work
+zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
